@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomModule.cs](./CS/App_Code/CustomModule.cs) (VB: [CustomModule.vb](./VB/App_Code/CustomModule.vb))
+* [TaskManager.cs](./CS/App_Code/TaskManager.cs) (VB: [TaskManager.vb](./VB/App_Code/TaskManager.vb))
+* [Test.cs](./CS/App_Code/Test.cs) (VB: [Test.vb](./VB/App_Code/Test.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+<!-- default file list end -->
 # How to track progress of server side processing on the client side (using HttpModule)
 
 
