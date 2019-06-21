@@ -8,6 +8,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to track progress of server side processing on the client side (using HttpModule)
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4656/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates an alternative way of how to track server-side processing. In this example, a custom HttpModule is used instead of HttpHandler as demonstrated in the <a href="https://www.devexpress.com/Support/Center/p/E4651">How to track progress of server side processing on the client side (using HttpHandler)</a> example. The use of the HttpModule has multiple advantages, and here are some of them:</p>
