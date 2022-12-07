@@ -7,7 +7,7 @@ Imports System.Threading.Tasks
 Partial Public Class _Default
     Inherits System.Web.UI.Page
 
-    Protected Sub cbak_Callback(ByVal source As Object, ByVal e As DevExpress.Web.ASPxCallback.CallbackEventArgs)
+    Protected Sub cbak_Callback(ByVal source As Object, ByVal e As DevExpress.Web.CallbackEventArgs)
         e.Result = StartTask().ToString()
     End Sub
 
