@@ -2,16 +2,16 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E4656)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# How to use HTTP modules to display the progress of a server-side process on the client
+# ASP.NET Web Forms - How to use HTTP modules to display the progress of a server-side process on the client
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e4656/)**
 <!-- run online end -->
 
-This example demonstrates how to implement a custom HTTP module to get information about the current progress from the server and display it on the client.
+This example implements a custom HTTP module to get information about the current progress from the server and display it on the client.
 
 ![Implement a custom HTTP module to display the progress](result.png)
 
-In the example, an instance of the `Test` static class stores a progress value. This class has a global scope and should be thread-safe.
+In the example, an instance of the `Test` static class stores the progress value. Note that this class has a global scope and should be thread-safe.
 
 ## Files to Review
 
