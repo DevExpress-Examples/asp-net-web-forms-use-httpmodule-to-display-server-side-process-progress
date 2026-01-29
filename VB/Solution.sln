@@ -1,4 +1,4 @@
-﻿Microsoft Visual Studio Solution File, Format Version 12.00
+Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HttpModule", ".", "{6338D7CD-14CA-4159-8218-C65C5D42CB9E}"
 	ProjectSection(WebsiteProperties) = preProject
