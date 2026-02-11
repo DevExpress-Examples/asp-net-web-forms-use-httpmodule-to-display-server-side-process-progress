@@ -32,7 +32,7 @@ In the example, an instance of the `Test` static class stores the progress value
 - [Progress Bar for ASP.NET Web Forms - How to use the WebMethod attribute to display the progress of a server-side process on the client](https://github.com/DevExpress-Examples/asp-net-web-forms-progress-bar-display-server-process-progress)
 - [Grid View for ASP.NET Web Forms - How to show a lengthy operation's progress and allow canceling such operations](https://github.com/DevExpress-Examples/asp-net-web-forms-grid-show-operation-progress-and-cancel-operation)
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-use-httpmodule-to-display-server-side-process-progress&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-use-httpmodule-to-display-server-side-process-progress&~~~was_helpful=no)
 
